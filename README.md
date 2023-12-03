@@ -26,6 +26,6 @@
 
 ---
 
-![ML](https://raw.githubusercontent.com/ruzgiiar/Salary-Prediction-with-Multiple-Linear-Regression/main/reg.jpg)
+![ML](https://raw.githubusercontent.com/ruzgiiar/Telco-Customer-Churn/main/churnnn.jpg)
 
 ---
